@@ -1,0 +1,7 @@
+D:\Даник\2 курс\3 семестр\ООП\Лабораторные работы\5\Example\Example\bin\Debug\Example.exe.config
+D:\Даник\2 курс\3 семестр\ООП\Лабораторные работы\5\Example\Example\bin\Debug\Example.exe
+D:\Даник\2 курс\3 семестр\ООП\Лабораторные работы\5\Example\Example\bin\Debug\Example.pdb
+D:\Даник\2 курс\3 семестр\ООП\Лабораторные работы\5\Example\Example\obj\Debug\Example.csprojAssemblyReference.cache
+D:\Даник\2 курс\3 семестр\ООП\Лабораторные работы\5\Example\Example\obj\Debug\Example.csproj.CoreCompileInputs.cache
+D:\Даник\2 курс\3 семестр\ООП\Лабораторные работы\5\Example\Example\obj\Debug\Example.exe
+D:\Даник\2 курс\3 семестр\ООП\Лабораторные работы\5\Example\Example\obj\Debug\Example.pdb
